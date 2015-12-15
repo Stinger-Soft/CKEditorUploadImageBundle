@@ -24,7 +24,7 @@
 	],
 	"require" : {
 		"symfony/framework-bundle" : ">=2.1",
-		"stinger/ckeditor-uploadwidget-bundle" : "~4.5",
+		"stinger/ckeditor-uploadwidget-bundle" : "~4.5" 
 	},
 	"suggest" : {
 		"Trsteel/ckeditor-bundle" : "The CKEditor Bundle we're using ;)"
